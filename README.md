@@ -6,7 +6,7 @@ Track-Droid allows to form group like chat-apps(Whatsapp,Telegram,etc) and displ
 1.a)Fork and Clone the repository
 ```
 
-https://github.com/Ram-20062003/Track-Droid.git
+git clone https://github.com/Ram-20062003/Track-Droid.git
 
 ```
   b)Create your branch and give prs
